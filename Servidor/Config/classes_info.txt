@@ -1,0 +1,64 @@
+[Classe 1]
+Força:23
+Resistência:0
+Sorte:0
+Agilidade:0
+Inteligência:0
+Sabedoria:0
+Sprite Homem:Actor_KH01;6
+Sprite Mulher:Actor_KH01;7
+[Classe 2]
+Força:23
+Resistência:0
+Sorte:0
+Agilidade:0
+Inteligência:0
+Sabedoria:0
+Sprite Homem:Actor_KH01;6
+Sprite Mulher:Actor_KH01;7  
+[Classe 3]
+Força:23
+Resistência:0
+Sorte:0
+Agilidade:0
+Inteligência:0
+Sabedoria:0
+Sprite Homem:Actor_KH01;6
+Sprite Mulher:Actor_KH01;7
+[Classe 4]
+Força:23
+Resistência:0
+Sorte:0
+Agilidade:0
+Inteligência:0
+Sabedoria:0
+Sprite Homem:Actor_KH01;6
+Sprite Mulher:Actor_KH01;7  
+[Classe 5]
+Força:23
+Resistência:0
+Sorte:0
+Agilidade:0
+Inteligência:0
+Sabedoria:0
+Sprite Homem:Actor_KH01;6
+Sprite Mulher:Actor_KH01;7
+[Classe 6]
+Força:23
+Resistência:0
+Sorte:0
+Agilidade:0
+Inteligência:0
+Sabedoria:0
+Sprite Homem:Actor_KH01;6
+Sprite Mulher:Actor_KH01;7  
+[Classe NULA]
+Força:0
+Resistência:0
+Sorte:0
+Agilidade:0
+Inteligência:0
+Sabedoria:0
+Sprite Homem: null
+Sprite Mulher:null
+

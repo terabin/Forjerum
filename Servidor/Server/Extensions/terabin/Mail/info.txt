@@ -1,0 +1,14 @@
+﻿<info>
+Nome da extensão: Mail System
+Autor: Terabin - Allyson S Bacon
+Versão: 0.0.3
+Descrição: Faz com que haja interação com emails e o servidor, enviando senhas perdidas, 
+confirmando contas e criando maior segurança no projeto.
+
+<contains>
+Mail.cs
+
+<changes>
+ReceiveData.cs
+
+

@@ -1,0 +1,17 @@
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Servidor\Forjerum Server.exe.config
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Servidor\obj\Debug\Forjerum Server.exe
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Servidor\obj\Debug\Forjerum Server.pdb
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Servidor\Forjerum Server.exe
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Servidor\Forjerum Server.pdb
+C:\Users\terabin\Desktop\Forjerum\Servidor\Forjerum Server.exe.config
+C:\Users\terabin\Desktop\Forjerum\Servidor\obj\Debug\Forjerum Server.exe
+C:\Users\terabin\Desktop\Forjerum\Servidor\obj\Debug\Forjerum Server.pdb
+C:\Users\terabin\Desktop\Forjerum\Servidor\obj\Debug\Forjerum Server.csprojResolveAssemblyReference.cache
+C:\Users\terabin\Desktop\Forjerum\Servidor\Forjerum Server.exe
+C:\Users\terabin\Desktop\Forjerum\Servidor\Forjerum Server.pdb
+C:\Users\terabin\Desktop\Projeto Forjerum\Forjerum\Servidor\Forjerum Server.exe.config
+C:\Users\terabin\Desktop\Projeto Forjerum\Forjerum\Servidor\obj\Debug\Forjerum Server.exe
+C:\Users\terabin\Desktop\Projeto Forjerum\Forjerum\Servidor\obj\Debug\Forjerum Server.pdb
+C:\Users\terabin\Desktop\Projeto Forjerum\Forjerum\Servidor\obj\Debug\Forjerum Server.csprojResolveAssemblyReference.cache
+C:\Users\terabin\Desktop\Projeto Forjerum\Forjerum\Servidor\Forjerum Server.exe
+C:\Users\terabin\Desktop\Projeto Forjerum\Forjerum\Servidor\Forjerum Server.pdb

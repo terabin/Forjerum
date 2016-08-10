@@ -1,0 +1,21 @@
+c:\users\jian\documents\visual studio 2015\Projects\Editor\Editor\bin\Debug\Editor.exe.config
+c:\users\jian\documents\visual studio 2015\Projects\Editor\Editor\bin\Debug\Editor.exe
+c:\users\jian\documents\visual studio 2015\Projects\Editor\Editor\bin\Debug\Editor.pdb
+c:\users\jian\documents\visual studio 2015\Projects\Editor\Editor\obj\Debug\Editor.csprojResolveAssemblyReference.cache
+c:\users\jian\documents\visual studio 2015\Projects\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+c:\users\jian\documents\visual studio 2015\Projects\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.Cache
+c:\users\jian\documents\visual studio 2015\Projects\Editor\Editor\obj\Debug\Editor.exe
+c:\users\jian\documents\visual studio 2015\Projects\Editor\Editor\obj\Debug\Editor.pdb
+c:\users\jian\documents\visual studio 2015\Projects\Editor\Editor\obj\Debug\Editor.FrmMain.resources
+C:\Users\jian\Desktop\Wing\trunk\Editor\Editor\bin\Debug\Editor.exe.config
+C:\Users\jian\Desktop\Wing\trunk\Editor\Editor\obj\Debug\Editor.exe
+C:\Users\jian\Desktop\Wing\trunk\Editor\Editor\obj\Debug\Editor.pdb
+C:\Users\jian\Desktop\Wing\trunk\Editor\Editor\bin\Debug\Editor.exe
+C:\Users\jian\Desktop\Wing\trunk\Editor\Editor\bin\Debug\Editor.pdb
+C:\Users\jian\Desktop\Wing\trunk\Editor\Editor\obj\Debug\Editor.csprojResolveAssemblyReference.cache
+C:\Users\jian\Desktop\Wing\trunk\Editor\Editor\obj\Debug\Editor.FrmMain.resources
+C:\Users\jian\Desktop\Wing\trunk\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\Users\jian\Desktop\Wing\trunk\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.Cache
+C:\Users\jian\Desktop\Wing\trunk\Servidor\bin\Debug\Editor.exe.config
+C:\Users\jian\Desktop\Wing\trunk\Servidor\bin\Debug\Editor.exe
+C:\Users\jian\Desktop\Wing\trunk\Servidor\bin\Debug\Editor.pdb

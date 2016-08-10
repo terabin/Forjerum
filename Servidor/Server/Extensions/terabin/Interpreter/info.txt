@@ -1,0 +1,11 @@
+﻿<info>
+Nome da extensão: Interpreter
+Autor: Terabin - Allyson S Bacon
+Versão: 0.0.1
+Descrição: Faz com que o servidor passe a interpretar comandos diretos no console.
+
+<contains>
+Commands.cs
+Interpreter.cs
+
+

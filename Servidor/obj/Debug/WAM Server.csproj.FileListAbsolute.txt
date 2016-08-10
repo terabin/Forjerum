@@ -1,0 +1,19 @@
+C:\Users\Nop\Desktop\Netplay Ace\AceServer\bin\Debug\WAMServer.exe.config
+C:\Users\Nop\Desktop\Netplay Ace\WAM Server\bin\Debug\WAMServer.exe.config
+C:\Users\Nop\Desktop\Netplay Ace\WAM Server\obj\Debug\WAM Server.csprojResolveAssemblyReference.cache
+C:\Users\Nop\Desktop\Netplay Ace\WAM Server\bin\Debug\WAMServer.exe
+C:\Users\Nop\Desktop\Netplay Ace\WAM Server\bin\Debug\WAMServer.pdb
+C:\Users\Nop\Desktop\Netplay Ace\WAM Server\bin\Debug\mscorlib.dll
+C:\Users\Nop\Desktop\Netplay Ace\WAM Server\bin\Debug\normidna.nlp
+C:\Users\Nop\Desktop\Netplay Ace\WAM Server\bin\Debug\normnfc.nlp
+C:\Users\Nop\Desktop\Netplay Ace\WAM Server\bin\Debug\normnfd.nlp
+C:\Users\Nop\Desktop\Netplay Ace\WAM Server\bin\Debug\normnfkc.nlp
+C:\Users\Nop\Desktop\Netplay Ace\WAM Server\bin\Debug\normnfkd.nlp
+C:\Users\Nop\Desktop\Netplay Ace\WAM Server\obj\Debug\WAMServer.exe
+C:\Users\Nop\Desktop\Netplay Ace\WAM Server\obj\Debug\WAMServer.pdb
+C:\Users\Nop\Desktop\WAM Ace\WAM Server FAIL\bin\Debug\Ace Servidor.exe.config
+C:\Users\Nop\Desktop\WAM Ace\WAM Server FAIL\obj\Debug\WAM Server.csprojResolveAssemblyReference.cache
+C:\Users\Nop\Desktop\WAM Ace\WAM Server FAIL\bin\Debug\Ace Servidor.exe
+C:\Users\Nop\Desktop\WAM Ace\WAM Server FAIL\bin\Debug\Ace Servidor.pdb
+C:\Users\Nop\Desktop\WAM Ace\WAM Server FAIL\obj\Debug\Ace Servidor.exe
+C:\Users\Nop\Desktop\WAM Ace\WAM Server FAIL\obj\Debug\Ace Servidor.pdb
