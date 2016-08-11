@@ -95,7 +95,9 @@
     <Compile Include="Server\Languages\terabin\PT-BR\pt_br.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Content Include="icon.ico" />
