@@ -195,6 +195,7 @@ namespace FORJERUM.Languages
             lang.exp = "EXP";
             lang.pet_evolve = "Mascote Up!";
             lang.level_up = "Subiu de nível";
+            lang.no_level_to_use_this_item = "Você não tem o nível para utilizar esse item";
         }
     }
 }

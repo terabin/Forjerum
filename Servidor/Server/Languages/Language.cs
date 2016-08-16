@@ -221,6 +221,7 @@ namespace FORJERUM.Languages
             public string exp;
             public string pet_evolve;
             public string level_up;
+            public string no_level_to_use_this_item;
         }
     }
 }

@@ -1441,6 +1441,17 @@ namespace FORJERUM
             int itemRefin = Convert.ToInt32(splititem[3]);
             int itemExp = Convert.ToInt32(splititem[4]);
 
+            if ((itemType == Globals.ArmorType) || (itemType == Globals.WeaponType))
+            {
+                if (IsNumeric(IStruct.item[itemNum].note))
+                {
+                    if (Convert.ToInt32(IStruct.item[itemNum].note) > PStruct.character[index, PStruct.player[index].SelectedChar].Level)
+                    {
+                        SendData.Send_MsgToPlayer(index, lang.no_level_to_use_this_item, Globals.ColorRed, Globals.Msg_Type_Server);
+                    }
+                }
+            }
+
             string equipment = PStruct.character[index, PStruct.player[index].SelectedChar].Equipment;
             string[] equipdata = equipment.Split(',');
 
