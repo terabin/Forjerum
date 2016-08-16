@@ -1448,6 +1448,7 @@ namespace FORJERUM
                     if (Convert.ToInt32(IStruct.item[itemNum].note) > PStruct.character[index, PStruct.player[index].SelectedChar].Level)
                     {
                         SendData.Send_MsgToPlayer(index, lang.no_level_to_use_this_item, Globals.ColorRed, Globals.Msg_Type_Server);
+                        return;
                     }
                 }
             }
