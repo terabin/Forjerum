@@ -1643,19 +1643,19 @@ namespace FORJERUM
                     {
                         //Incendiar
                         PStruct.skill[index, 1].num = 44;
-                        PStruct.skill[index, 1].level = 1;
+                        PStruct.skill[index, 1].level = 0;
 
                         //Onos Aroga
                         PStruct.skill[index, 2].num = 6;
-                        PStruct.skill[index, 2].level = 1;
+                        PStruct.skill[index, 2].level = 0;
 
                         //Etrof Otnev
                         PStruct.skill[index, 3].num = 8;
-                        PStruct.skill[index, 3].level = 1;
+                        PStruct.skill[index, 3].level = 0;
 
                         //Ogral Ossap
                         PStruct.skill[index, 4].num = 7;
-                        PStruct.skill[index, 4].level = 1;
+                        PStruct.skill[index, 4].level = 0;
 
                         //Aprimoramento Mágico
                         PStruct.skill[index, 5].num = 46;
@@ -1663,7 +1663,7 @@ namespace FORJERUM
 
                         //Estrela congelante
                         PStruct.skill[index, 6].num = 45;
-                        PStruct.skill[index, 6].level = 1;
+                        PStruct.skill[index, 6].level = 0;
 
 
                     }
@@ -1672,135 +1672,135 @@ namespace FORJERUM
                     {
                         //Tempo ruim
                         PStruct.skill[index, 1].num = 14;
-                        PStruct.skill[index, 1].level = 1;
+                        PStruct.skill[index, 1].level = 0;
 
                         //Aprimoramento Vital
                         PStruct.skill[index, 2].num = 52;
-                        PStruct.skill[index, 2].level = 1;
+                        PStruct.skill[index, 2].level = 0;
 
                         //Ponto de corrupção
                         PStruct.skill[index, 3].num = 16;
-                        PStruct.skill[index, 3].level = 1;
+                        PStruct.skill[index, 3].level = 0;
 
                         //Ambição Arut Neva
                         PStruct.skill[index, 4].num = 15;
-                        PStruct.skill[index, 4].level = 1;
+                        PStruct.skill[index, 4].level = 0;
 
                         //Manipulação Vital
                         PStruct.skill[index, 5].num = 53;
-                        PStruct.skill[index, 5].level = 1;
+                        PStruct.skill[index, 5].level = 0;
 
                         //Antes que você possa notar!
                         PStruct.skill[index, 6].num = 9;
-                        PStruct.skill[index, 6].level = 1;
+                        PStruct.skill[index, 6].level = 0;
                     }
 
                     if (classid == 3)
                     {
                         //Lembrança do Deserto
                         PStruct.skill[index, 1].num = 55;
-                        PStruct.skill[index, 1].level = 1;
+                        PStruct.skill[index, 1].level = 0;
 
                         //Motivação Aiprah
                         PStruct.skill[index, 2].num = 4;
-                        PStruct.skill[index, 2].level = 1;
+                        PStruct.skill[index, 2].level = 0;
 
                         //Julgamento Aiprah
                         PStruct.skill[index, 3].num = 3;
-                        PStruct.skill[index, 3].level = 1;
+                        PStruct.skill[index, 3].level = 0;
 
                         //Maldição Aiprah
                         PStruct.skill[index, 4].num = 1;
-                        PStruct.skill[index, 4].level = 1;
+                        PStruct.skill[index, 4].level = 0;
 
                         //Filhos da Areia
                         PStruct.skill[index, 5].num = 56;
-                        PStruct.skill[index, 5].level = 1;
+                        PStruct.skill[index, 5].level = 0;
 
                         //Controle Aiprah
                         PStruct.skill[index, 6].num = 5;
-                        PStruct.skill[index, 6].level = 1;
+                        PStruct.skill[index, 6].level = 0;
                     }
 
                     if (classid == 4)
                     {
                         //Primeiro Corte
                         PStruct.skill[index, 1].num = 10;
-                        PStruct.skill[index, 1].level = 1;
+                        PStruct.skill[index, 1].level = 0;
 
                         //Segundo Corte
                         PStruct.skill[index, 2].num = 11;
-                        PStruct.skill[index, 2].level = 1;
+                        PStruct.skill[index, 2].level = 0;
 
                         //Embainhar
                         PStruct.skill[index, 3].num = 47;
-                        PStruct.skill[index, 3].level = 1;
+                        PStruct.skill[index, 3].level = 0;
 
                         //Terceiro Corte
                         PStruct.skill[index, 4].num = 12;
-                        PStruct.skill[index, 4].level = 1;
+                        PStruct.skill[index, 4].level = 0;
 
                         //Laço de vida
                         PStruct.skill[index, 5].num = 48;
-                        PStruct.skill[index, 5].level = 1;
+                        PStruct.skill[index, 5].level = 0;
 
                         //Daishi ni Katto
                         PStruct.skill[index, 6].num = 13;
-                        PStruct.skill[index, 6].level = 1;
+                        PStruct.skill[index, 6].level = 0;
                     }
 
                     if (classid == 5)
                     {
                         //Lâmina Ritelf
                         PStruct.skill[index, 1].num = 54;
-                        PStruct.skill[index, 1].level = 1;
+                        PStruct.skill[index, 1].level = 0;
 
                         //Coração Ritelf
                         PStruct.skill[index, 2].num = 35;
-                        PStruct.skill[index, 2].level = 1;
+                        PStruct.skill[index, 2].level = 0;
 
                         //Esmagamento
                         PStruct.skill[index, 3].num = 36;
-                        PStruct.skill[index, 3].level = 1;
+                        PStruct.skill[index, 3].level = 0;
 
                         //Afugentar
                         PStruct.skill[index, 4].num = 38;
-                        PStruct.skill[index, 4].level = 1;
+                        PStruct.skill[index, 4].level = 0;
 
                         //Cortes Gêmeos
                         PStruct.skill[index, 5].num = 51;
-                        PStruct.skill[index, 5].level = 1;
+                        PStruct.skill[index, 5].level = 0;
 
                         //Contra Ataque
                         PStruct.skill[index, 6].num = 37;
-                        PStruct.skill[index, 6].level = 1;
+                        PStruct.skill[index, 6].level = 0;
                     }
 
                     if (classid == 6)
                     {
                         //Benção Cani
                         PStruct.skill[index, 1].num = 39;
-                        PStruct.skill[index, 1].level = 1;
+                        PStruct.skill[index, 1].level = 0;
 
                         //Dança da Folha
                         PStruct.skill[index, 2].num = 40;
-                        PStruct.skill[index, 2].level = 1;
+                        PStruct.skill[index, 2].level = 0;
 
                         //Fluxo da Alma
                         PStruct.skill[index, 3].num = 50;
-                        PStruct.skill[index, 3].level = 1;
+                        PStruct.skill[index, 3].level = 0;
 
                         //Lua Nova
                         PStruct.skill[index, 4].num = 49;
-                        PStruct.skill[index, 4].level = 1;
+                        PStruct.skill[index, 4].level = 0;
 
                         //Empolgação
                         PStruct.skill[index, 5].num = 41;
-                        PStruct.skill[index, 5].level = 1;
+                        PStruct.skill[index, 5].level = 0;
 
                         //Masterização
                         PStruct.skill[index, 6].num = 42;
-                        PStruct.skill[index, 6].level = 1;
+                        PStruct.skill[index, 6].level = 0;
                     }
 
                     for (int i = 1; i < Globals.Max_Chests; i++)
