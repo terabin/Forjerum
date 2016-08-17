@@ -5,13 +5,15 @@ namespace FORJERUM
 {
     //*********************************************************************************************
     // FORJERUM - Forjerum BETA 1!
-    // Autor: Allyson de Souza Bacon
+    // Autor: Allyson de Souza Bacon - Todos os direitos reservados
     //
     // Não se esqueça de respeitar a licença do projeto.
-    // http://creativecommons.org/licenses/by-sa/3.0/
+    // https://creativecommons.org/licenses/by-sa/4.0/
     // 
     // O desenvolvimento deste projeto se deve completamente ao seu autor e a equipe 4Tabern, para
     // encontrar novidades, aulas e extensões, não deixe de visitar o site http://4tabern.com.
+    //
+    // Copyright (C) 2016 Allyson S. Bacon
     //*********************************************************************************************
     //*********************************************************************************************
     // Início do servidor.
@@ -40,7 +42,7 @@ namespace FORJERUM
             Console.WriteLine(@"/                  |__/                               /");
             Console.WriteLine("/                                                     /");
             Console.WriteLine("/                 http://4tabern.com                  /");
-            Console.WriteLine("/          Desenvolvido por Allyson S. Bacon          /");
+            Console.WriteLine("/         Copyright (C) 2016 Allyson S. Bacon         /");
             Console.WriteLine("/                                                     /");
             Console.WriteLine("///////////////////////////////////////////////////////");
 

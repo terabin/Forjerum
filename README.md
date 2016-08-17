@@ -115,9 +115,8 @@ This Source Code Form is subject to the terms of the Mozilla Public
 License, v. 2.0. If a copy of the MPL was not distributed with this file,
 You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-* Content is licensed under CC-BY-SA 3.0:
-http://creativecommons.org/licenses/by-sa/3.0/
+* Content is licensed under CC-BY-SA 4.0:
+https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Autor do projeto
-Allyson de Souza Bacon
+Allyson de Souza Bacon - Todos os direitos reservados
