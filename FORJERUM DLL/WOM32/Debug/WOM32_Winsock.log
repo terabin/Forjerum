@@ -1,0 +1,30 @@
+﻿Build started 03/06/2015 03:49:41.
+     1>Project "C:\Users\Nop\Documents\Visual Studio 2010\Projects\WOM32_Winsock\WOM32_Winsock\WOM32_Winsock.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\WOM32.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Nop\Documents\Visual Studio 2010\Projects\WOM32_Winsock\Debug\WOM32.dll" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\WOM32.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Nop\Documents\Visual Studio 2010\Projects\WOM32_Winsock\Debug\WOM32.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /DLL Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\Stdafx.obj
+         Debug\WOM32.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+            Creating library C:\Users\Nop\Documents\Visual Studio 2010\Projects\WOM32_Winsock\Debug\WOM32.lib and object C:\Users\Nop\Documents\Visual Studio 2010\Projects\WOM32_Winsock\Debug\WOM32.exp
+         WOM32_Winsock.vcxproj -> C:\Users\Nop\Documents\Visual Studio 2010\Projects\WOM32_Winsock\Debug\WOM32.dll
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Nop\Documents\Visual Studio 2010\Projects\WOM32_Winsock\Debug\WOM32.dll;#2" /manifest Debug\WOM32.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\WOM32.unsuccessfulbuild".
+         Touching "Debug\WOM32.lastbuildstate".
+     1>Done Building Project "C:\Users\Nop\Documents\Visual Studio 2010\Projects\WOM32_Winsock\WOM32_Winsock\WOM32_Winsock.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.64

@@ -1,0 +1,7 @@
+﻿<info>
+Nome da extensão: Tradução PT_BR
+Autor: Terabin - Allyson S Bacon
+Versão: 0.0.1
+Descrição: Faz com que todas as informações do servidor sejam passadas em PT_BR.
+
+

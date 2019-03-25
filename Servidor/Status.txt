@@ -1,0 +1,6 @@
+Log automático do servidor. Criado na data 02/04/2017 03:44:43
+Existem 0 Jogadores online
+A última atualização de recebimento aconteceu em 71 ms
+A última atualização de conexão aconteceu em 71 ms
+O último comando chamado no loop foi 
+A última packet recebida foi 

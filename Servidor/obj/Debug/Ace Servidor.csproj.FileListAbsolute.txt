@@ -1,0 +1,62 @@
+C:\Users\Nop\Desktop\WAM Ace\Ace Servidor\bin\Debug\Ace Servidor.exe.config
+C:\Users\Nop\Desktop\WAM Ace\Ace Servidor\obj\Debug\Ace Servidor.exe
+C:\Users\Nop\Desktop\WAM Ace\Ace Servidor\obj\Debug\Ace Servidor.pdb
+C:\Users\Nop\Desktop\WAM Ace\Ace Servidor\bin\Debug\Ace Servidor.exe
+C:\Users\Nop\Desktop\WAM Ace\Ace Servidor\bin\Debug\Ace Servidor.pdb
+C:\Users\Nop\Desktop\Projeto Ace\Ace Servidor\bin\Debug\Ace Servidor.exe.config
+C:\Users\Nop\Desktop\Projeto Ace\Ace Servidor\obj\Debug\Ace Servidor.exe
+C:\Users\Nop\Desktop\Projeto Ace\Ace Servidor\obj\Debug\Ace Servidor.pdb
+C:\Users\Nop\Desktop\Projeto Ace\Ace Servidor\bin\Debug\Ace Servidor.exe
+C:\Users\Nop\Desktop\Projeto Ace\Ace Servidor\bin\Debug\Ace Servidor.pdb
+C:\Users\Nop\Desktop\Projeto Ace\Ace Servidor\obj\Debug\Ace Servidor.csprojResolveAssemblyReference.cache
+C:\Users\Nop\Desktop\Projeto Vofawus\Ruby\Projeto Ace 3004\Projeto Ace\Ace Servidor\bin\Debug\Ace Servidor.exe.config
+C:\Users\Nop\Desktop\Projeto Vofawus\Ruby\Projeto Ace 3004\Projeto Ace\Ace Servidor\obj\Debug\Ace Servidor.exe
+C:\Users\Nop\Desktop\Projeto Vofawus\Ruby\Projeto Ace 3004\Projeto Ace\Ace Servidor\obj\Debug\Ace Servidor.pdb
+C:\Users\Nop\Desktop\Projeto Vofawus\Ruby\Projeto Ace 3004\Projeto Ace\Ace Servidor\bin\Debug\Ace Servidor.exe
+C:\Users\Nop\Desktop\Projeto Vofawus\Ruby\Projeto Ace 3004\Projeto Ace\Ace Servidor\bin\Debug\Ace Servidor.pdb
+C:\Users\Nop\Desktop\Projeto Vofawus\Ruby\Projeto Ace 3004\Projeto Ace\Ace Servidor\obj\Debug\Ace Servidor.csprojResolveAssemblyReference.cache
+C:\Users\Nop\Desktop\Programação\Projeto Vofawus\Ruby\Projeto Ace 3004\Projeto Ace\Ace Servidor\bin\Debug\Ace Servidor.exe.config
+C:\Users\Nop\Desktop\Programação\Projeto Vofawus\Ruby\Projeto Ace 3004\Projeto Ace\Ace Servidor\obj\Debug\Ace Servidor.exe
+C:\Users\Nop\Desktop\Programação\Projeto Vofawus\Ruby\Projeto Ace 3004\Projeto Ace\Ace Servidor\obj\Debug\Ace Servidor.pdb
+C:\Users\Paulo Soreto\Desktop\Ace\Ace Servidor\bin\Debug\Ace Servidor.exe.config
+C:\Users\Paulo Soreto\Desktop\Ace\Ace Servidor\obj\Debug\Ace Servidor.exe
+C:\Users\Paulo Soreto\Desktop\Ace\Ace Servidor\obj\Debug\Ace Servidor.pdb
+C:\Users\Paulo Soreto\Desktop\Ace\Ace Servidor\bin\Debug\Ace Servidor.exe
+C:\Users\Paulo Soreto\Desktop\Ace\Ace Servidor\bin\Debug\Ace Servidor.pdb
+C:\Users\Paulo Soreto\Desktop\Ace\Ace Servidor\obj\Debug\Ace Servidor.csprojResolveAssemblyReference.cache
+C:\Users\Nop\Desktop\Projeto ACE\Ace\Ace Servidor\bin\Debug\Ace Servidor.exe.config
+C:\Users\Nop\Desktop\Projeto ACE\Ace\Ace Servidor\obj\Debug\Ace Servidor.exe
+C:\Users\Nop\Desktop\Projeto ACE\Ace\Ace Servidor\obj\Debug\Ace Servidor.pdb
+C:\Users\Nop\Desktop\Projeto ACE\Ace\Ace Servidor\bin\Debug\Ace Servidor.exe
+C:\Users\Nop\Desktop\Projeto ACE\Ace\Ace Servidor\bin\Debug\Ace Servidor.pdb
+C:\Users\Nop\Desktop\Projeto ACE\Ace\Ace Servidor\obj\Debug\Ace Servidor.csprojResolveAssemblyReference.cache
+C:\Users\Nop\Desktop\Projeto WOM\Ace\Ace Servidor\bin\Debug\Ace Servidor.exe.config
+C:\Users\Nop\Desktop\Projeto WOM\Ace\Ace Servidor\obj\Debug\Ace Servidor.exe
+C:\Users\Nop\Desktop\Projeto WOM\Ace\Ace Servidor\obj\Debug\Ace Servidor.pdb
+C:\Users\Nop\Desktop\Projeto WOM\Ace\Ace Servidor\bin\Debug\Ace Servidor.exe
+C:\Users\Nop\Desktop\Projeto WOM\Ace\Ace Servidor\bin\Debug\Ace Servidor.pdb
+C:\Users\Nop\Desktop\Projeto WOM\Ace\Ace Servidor\obj\Debug\Ace Servidor.csprojResolveAssemblyReference.cache
+C:\Users\Nop\Desktop\Projeto WOM\Ace\WOM Servidor\Ace Servidor\bin\Debug\Ace Servidor.exe.config
+C:\Users\Nop\Desktop\Projeto WOM\Ace\WOM Servidor\Ace Servidor\obj\Debug\Ace Servidor.exe
+C:\Users\Nop\Desktop\Projeto WOM\Ace\WOM Servidor\Ace Servidor\obj\Debug\Ace Servidor.pdb
+C:\Users\Nop\Desktop\Projeto WOM\Ace\WOM Servidor\Ace Servidor\bin\Debug\Ace Servidor.exe
+C:\Users\Nop\Desktop\Projeto WOM\Ace\WOM Servidor\Ace Servidor\bin\Debug\Ace Servidor.pdb
+C:\Users\Nop\Desktop\Projeto WOM\Ace\WOM Servidor\Ace Servidor\obj\Debug\Ace Servidor.csprojResolveAssemblyReference.cache
+C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Ace Servidor\bin\Debug\Ace Servidor.exe.config
+C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Ace Servidor\obj\Debug\Ace Servidor.exe
+C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Ace Servidor\obj\Debug\Ace Servidor.pdb
+C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Ace Servidor\bin\Debug\Ace Servidor.exe
+C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Ace Servidor\bin\Debug\Ace Servidor.pdb
+C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Ace Servidor\obj\Debug\Ace Servidor.csprojResolveAssemblyReference.cache
+C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\bin\Debug\Ace Servidor.exe.config
+C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\obj\Debug\Ace Servidor.exe
+C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\obj\Debug\Ace Servidor.pdb
+C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\bin\Debug\Ace Servidor.exe
+C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\bin\Debug\Ace Servidor.pdb
+C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Ace\WOM Servidor\Wing Of Misadventure Oficial\obj\Debug\Ace Servidor.csprojResolveAssemblyReference.cache
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Servidor\obj\Debug\Ace Servidor.csprojResolveAssemblyReference.cache
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Servidor\Forjerum Server.exe.config
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Servidor\obj\Debug\Forjerum Server.exe
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Servidor\obj\Debug\Forjerum Server.pdb
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Servidor\Forjerum Server.exe
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Servidor\Forjerum Server.pdb

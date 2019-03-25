@@ -1,0 +1,19 @@
+c:\users\paulo\documents\visual studio 2013\Projects\SRTPack\AceServer\bin\Debug\AceServer.exe.config
+c:\users\paulo\documents\visual studio 2013\Projects\SRTPack\AceServer\bin\Debug\AceServer.exe
+c:\users\paulo\documents\visual studio 2013\Projects\SRTPack\AceServer\bin\Debug\AceServer.pdb
+c:\users\paulo\documents\visual studio 2013\Projects\SRTPack\AceServer\obj\Debug\AceServer.exe
+c:\users\paulo\documents\visual studio 2013\Projects\SRTPack\AceServer\obj\Debug\AceServer.pdb
+c:\users\paulo\documents\visual studio 2013\Projects\SRTPack\AceServer\obj\Debug\AceServer.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\documents\visual studio 2013\Projects\SRTPack\AceServer\bin\Debug\MySql.Data.dll
+C:\Users\Nop\Desktop\Netplay Ace\AceServer\bin\Debug\AceServer.exe.config
+C:\Users\Nop\Desktop\Netplay Ace\AceServer\obj\Debug\AceServer.exe
+C:\Users\Nop\Desktop\Netplay Ace\AceServer\obj\Debug\AceServer.pdb
+C:\Users\Nop\Desktop\Netplay Ace\AceServer\bin\Debug\AceServer.exe
+C:\Users\Nop\Desktop\Netplay Ace\AceServer\bin\Debug\AceServer.pdb
+C:\Users\Nop\Desktop\Netplay Ace\AceServer\bin\Debug\mscorlib.dll
+C:\Users\Nop\Desktop\Netplay Ace\AceServer\bin\Debug\normidna.nlp
+C:\Users\Nop\Desktop\Netplay Ace\AceServer\bin\Debug\normnfc.nlp
+C:\Users\Nop\Desktop\Netplay Ace\AceServer\bin\Debug\normnfd.nlp
+C:\Users\Nop\Desktop\Netplay Ace\AceServer\bin\Debug\normnfkc.nlp
+C:\Users\Nop\Desktop\Netplay Ace\AceServer\bin\Debug\normnfkd.nlp
+C:\Users\Nop\Desktop\Netplay Ace\AceServer\obj\Debug\AceServer.csprojResolveAssemblyReference.cache

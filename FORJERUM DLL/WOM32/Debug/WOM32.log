@@ -1,0 +1,31 @@
+﻿Build started 10/08/2016 10:45:09.
+     1>Project "C:\Users\terabin\Desktop\Forjerum\FORJERUM DLL\WOM32\WOM32.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\FORJERUM.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\app.res" app.rc 
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\terabin\Desktop\Forjerum\FORJERUM DLL\Debug\FORJERUM.dll" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\FORJERUM.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\terabin\Desktop\Forjerum\FORJERUM DLL\Debug\FORJERUM.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\terabin\Desktop\Forjerum\FORJERUM DLL\Debug\FORJERUM.lib" /MACHINE:X86 /DLL Debug\app.res
+         Debug\FORJERUM.dll.embed.manifest.res
+         Debug\AssemblyInfo.obj
+         Debug\Stdafx.obj
+         Debug\FORJERUM.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\FORJERUM.dll.embed.manifest" /manifest Debug\FORJERUM.dll.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         WOM32.vcxproj -> C:\Users\terabin\Desktop\Forjerum\FORJERUM DLL\Debug\FORJERUM.dll
+       FinalizeBuildStatus:
+         Deleting file "Debug\FORJERUM.unsuccessfulbuild".
+         Touching "Debug\FORJERUM.lastbuildstate".
+     1>Done Building Project "C:\Users\terabin\Desktop\Forjerum\FORJERUM DLL\WOM32\WOM32.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.22

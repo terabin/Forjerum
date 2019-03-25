@@ -1,0 +1,6 @@
+C:\Users\Nop\AppData\Local\Temporary Projects\RGSS\obj\x86\Debug\RGSS.Properties.Resources.resources
+C:\Users\Nop\AppData\Local\Temporary Projects\RGSS\obj\x86\Debug\RGSS.csproj.GenerateResource.Cache
+C:\Users\Nop\AppData\Local\Temporary Projects\RGSS\bin\Debug\RGSS.exe
+C:\Users\Nop\AppData\Local\Temporary Projects\RGSS\bin\Debug\RGSS.pdb
+C:\Users\Nop\AppData\Local\Temporary Projects\RGSS\obj\x86\Debug\RGSS.exe
+C:\Users\Nop\AppData\Local\Temporary Projects\RGSS\obj\x86\Debug\RGSS.pdb

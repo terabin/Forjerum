@@ -1,0 +1,21 @@
+C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Game EXE\RGSS3\RGSS3\obj\x86\Release\RGSS.Properties.Resources.resources
+C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Game EXE\RGSS3\RGSS3\obj\x86\Release\RGSS3.csproj.GenerateResource.Cache
+C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Game EXE\RGSS3\RGSS3\bin\Release\RGSS3.exe
+C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Game EXE\RGSS3\RGSS3\bin\Release\RGSS3.pdb
+C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Game EXE\RGSS3\RGSS3\obj\x86\Release\RGSS3.exe
+C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Game EXE\RGSS3\RGSS3\obj\x86\Release\RGSS3.pdb
+C:\Users\terabin\Desktop\Projeto WOM\Projeto WOM\Game EXE\RGSS3\RGSS3\obj\x86\Release\RGSS3.csprojResolveAssemblyReference.cache
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Game EXE\RGSS3\RGSS3\obj\x86\Release\RGSS3.exe
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Game EXE\RGSS3\RGSS3\obj\x86\Release\RGSS3.pdb
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Game EXE\RGSS3\RGSS3\bin\Release\RGSS3.exe
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Game EXE\RGSS3\RGSS3\bin\Release\RGSS3.pdb
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Game EXE\RGSS3\RGSS3\obj\x86\Release\RGSS3.csprojResolveAssemblyReference.cache
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Game EXE\RGSS3\RGSS3\obj\x86\Release\RGSS.Properties.Resources.resources
+C:\Users\terabin\Desktop\Wing MMORPG Maker\Wing-MMORPG-Maker\Game EXE\RGSS3\RGSS3\obj\x86\Release\RGSS3.csproj.GenerateResource.Cache
+C:\Users\terabin\Desktop\Forjerum\Game EXE\RGSS3\RGSS3\obj\x86\Release\RGSS3.exe
+C:\Users\terabin\Desktop\Forjerum\Game EXE\RGSS3\RGSS3\obj\x86\Release\RGSS3.pdb
+C:\Users\terabin\Desktop\Forjerum\Game EXE\RGSS3\RGSS3\bin\Release\RGSS3.exe
+C:\Users\terabin\Desktop\Forjerum\Game EXE\RGSS3\RGSS3\bin\Release\RGSS3.pdb
+C:\Users\terabin\Desktop\Forjerum\Game EXE\RGSS3\RGSS3\obj\x86\Release\RGSS3.csprojResolveAssemblyReference.cache
+C:\Users\terabin\Desktop\Forjerum\Game EXE\RGSS3\RGSS3\obj\x86\Release\RGSS.Properties.Resources.resources
+C:\Users\terabin\Desktop\Forjerum\Game EXE\RGSS3\RGSS3\obj\x86\Release\RGSS3.csproj.GenerateResource.Cache
